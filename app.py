@@ -6,9 +6,9 @@ st.title("SMPL-X Motion Comparison Tool")
 # ==============================
 # CONFIG: Video paths (relative paths)
 # ==============================
-video_original = "video_original.mp4"
-video_gv       = "video_gv.mp4"
-video_sg       = "video_sg.mp4"
+video_original = "original_output(2).mp4"
+video_gv       = "render_gv.mp4"
+video_sg       = "render_sg.mp4"
 
 # ==============================
 # Helper to show 2 videos side-by-side
